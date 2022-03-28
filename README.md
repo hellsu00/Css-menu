@@ -1,3 +1,3 @@
 # Css-menu
 
-Aprendendo efeitos css, para melhorar a criação de menus
+Aprendendo efeitos css e transições, para melhorar a criação de menus
